@@ -4,14 +4,14 @@
 
 If you need help with Echook Promo Video, here are the available channels:
 
-- **GitHub Discussions**: for general questions, feedback, and ideas, visit the [Discussions](https://github.com/ChanMeng666/echook-promo-video/discussions) tab.
-- **GitHub Issues**: for bug reports and feature requests, [open an issue](https://github.com/ChanMeng666/echook-promo-video/issues).
+- **GitHub Discussions**: for general questions, feedback, and ideas, visit the [Discussions](https://github.com/ChanMeng666/film-echook-first/discussions) tab.
+- **GitHub Issues**: for bug reports and feature requests, [open an issue](https://github.com/ChanMeng666/film-echook-first/issues).
 
 ## Before You Ask
 
 - Check the [README](README.md) for setup and usage instructions.
 - Review the [Contributing Guide](CONTRIBUTING.md) for development and build steps.
-- Search existing [issues](https://github.com/ChanMeng666/echook-promo-video/issues) and [discussions](https://github.com/ChanMeng666/echook-promo-video/discussions) — your question may already be answered.
+- Search existing [issues](https://github.com/ChanMeng666/film-echook-first/issues) and [discussions](https://github.com/ChanMeng666/film-echook-first/discussions) — your question may already be answered.
 
 ## Scope of Support
 

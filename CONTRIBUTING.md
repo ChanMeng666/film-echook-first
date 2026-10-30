@@ -6,7 +6,7 @@ Thank you for your interest in contributing! This guide explains how to get invo
 
 ### Reporting Bugs
 
-If you find a bug, please [open an issue](https://github.com/ChanMeng666/echook-promo-video/issues/new) with:
+If you find a bug, please [open an issue](https://github.com/ChanMeng666/film-echook-first/issues/new) with:
 
 - Steps to reproduce the problem
 - Expected vs. actual behavior (screenshots or logs help)
@@ -14,7 +14,7 @@ If you find a bug, please [open an issue](https://github.com/ChanMeng666/echook-
 
 ### Suggesting Features
 
-Have an idea? [Open a feature request](https://github.com/ChanMeng666/echook-promo-video/issues/new) describing the problem you want to solve and your proposed solution.
+Have an idea? [Open a feature request](https://github.com/ChanMeng666/film-echook-first/issues/new) describing the problem you want to solve and your proposed solution.
 
 ### Submitting Changes
 

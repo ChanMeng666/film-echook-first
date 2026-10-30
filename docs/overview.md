@@ -105,7 +105,7 @@ gantt
 
 ```bash
 # Clone the repository
-git clone https://github.com/ChanMeng666/echook-promo-video.git
+git clone https://github.com/ChanMeng666/film-echook-first.git
 cd echook-promo-video
 
 # Install dependencies
